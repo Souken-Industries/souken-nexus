@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Souken Industries — R&D Division
-# https://waylucid.com
+# https://soukenindustries.com
 
 # ──────────────────────────────────────────────────
 # Retroactively Injecting the "bread" vector.
